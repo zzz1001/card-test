@@ -22,7 +22,7 @@ window.onload = function(){
                         mask[appear[i]-1].style.display = 'block'
                     }
                     appear = []
-                },1000)
+                },5000)
             }
         }else{
             for (let i=0 ; i<12;i++){
